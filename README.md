@@ -24,6 +24,8 @@ We are here to teach the class materials during class, and guide your self-paced
 
 We will try out best to provide feedback on your homework and project if they are *submitted on time following instructions*. 
 
+**Bonus**: Students that does the best in Capstone project can choose a free consultation session (up to 1 hour) with the teachers to discuss resume, projects, or general job hunting/career caoch questions.
+
 ## Topics
 Here is a list of topics we will cover in intermediate level class
 
@@ -63,5 +65,3 @@ Model interpretation:
 
 ### 6. Capstone project
 We designed a mock take-home project focused on modeling as our class Capstone project. We will be releasing the dataset and requirement halfway through the program and you will have at least 4 weeks to work on it. We will grade the modeling results and reports, and have a group discussion at the very end. 
-
-**Bonus**: Students that does the best in Capstone project can choose a free consultation session (up to 1 hour) with the teachers to discuss resume, projects, or general job hunting/career caoch questions.
