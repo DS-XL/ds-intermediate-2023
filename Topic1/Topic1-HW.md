@@ -24,6 +24,6 @@ Read the data in pandas and:
 ### Exercise 3
 A rental car company claims the average time to rent a car on its website is 60 seconds with a standard deviation of 30 seconds. A random sample of 36 customers attempted to rent a car on the website. 
 
-1. If the average time to rent was 65 seconds. Is this enough evidence to contradict the company's claim at a 5% confidence level? What's the power?
+1. If the average time to rent was 65 seconds. Is this enough evidence to contradict the company's claim at a 5% significance level? What's the power?
 
-2. If the analytics team believe the previous claim is incorrect and the average time to rent is 67 seconds, what is the sample size needed to design a sufficient test with 85% of power to test this new claim?
+2. If the analytics team believes the previous claim is incorrect and the average time to rent is 67 seconds, what is the sample size needed to design a sufficient test with 85% of power to test this new claim?
